@@ -7,8 +7,8 @@ Created on Tue Aug 28 12:11:27 2018
 
 import os
 import pandas as pd 
-#import folium
-#from folium.plugins import HeatMap
+import folium
+from folium.plugins import HeatMap
 import geopandas as gpd
 import fiona
 import shapely.geometry as geometry
@@ -30,7 +30,7 @@ Maha_state['geometry'] ## gives geometry type and its coordinates
 
 Maha = Maha_state[['OBJECTID_1','geometry']]
 
-writer = pd.ExcelWriter('pandas_simple.xlsx', engine='xlsxwriter')
+writer = pd.ExcelWriter('pandas_simple_new.xlsx', engine='xlsxwriter')
 Maha.to_excel(writer, sheet_name='Sheet1')
 writer.save()   
     
