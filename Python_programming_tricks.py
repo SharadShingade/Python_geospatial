@@ -34,3 +34,16 @@ files_xlsx = [f for f in files if f[-3:] == 'csv']
 
     output_ff = r"%s\%s.shp" % (correct_points,pin)
     arcpy.Select_analysis(out_feature_class, output_ff, "\"Pincode\" = %s" % pin) # equal to
+    
+
+###
+WS = r"G:\ULA_Phase_I_UXO_scripts"
+
+data = [x for x in os.listdir(r"%s\Cities" % WS) if not x.startswith('#')] # list comprensation
+for currentcity in data:
+    dirname = ntpath.basename(currentcity)
+    print dirname
+    
+    dataWS = r"%s\Data\%s" % (WS,dirname)
+    if not os.path.exists(dataWS):
+        os.makedirs(dataWS)
