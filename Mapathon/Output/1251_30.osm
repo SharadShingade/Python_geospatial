@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.7.5 (7580 thorn-03.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="-4.5216663" minlon="28.8720703" maxlat="-4.4997617" maxlon="28.8940430"/>
+ <node id="4291222010" visible="true" version="1" changeset="40585209" timestamp="2016-07-08T18:42:33Z" user="hebolz" uid="2249513" lat="-4.4996843" lon="28.8907779"/>
+ <node id="4291222015" visible="true" version="1" changeset="40585209" timestamp="2016-07-08T18:42:33Z" user="hebolz" uid="2249513" lat="-4.5000282" lon="28.8908570"/>
+ <node id="4291222018" visible="true" version="1" changeset="40585209" timestamp="2016-07-08T18:42:33Z" user="hebolz" uid="2249513" lat="-4.5001986" lon="28.8909330"/>
+ <node id="4291222020" visible="true" version="1" changeset="40585209" timestamp="2016-07-08T18:42:33Z" user="hebolz" uid="2249513" lat="-4.5003374" lon="28.8909805"/>
+ <node id="4291222021" visible="true" version="1" changeset="40585209" timestamp="2016-07-08T18:42:33Z" user="hebolz" uid="2249513" lat="-4.5003974" lon="28.8942341"/>
+ <node id="4291222022" visible="true" version="1" changeset="40585209" timestamp="2016-07-08T18:42:33Z" user="hebolz" uid="2249513" lat="-4.5004384" lon="28.8941044"/>
+ <node id="4291222025" visible="true" version="1" changeset="40585209" timestamp="2016-07-08T18:42:33Z" user="hebolz" uid="2249513" lat="-4.5005330" lon="28.8909235"/>
+ <node id="4291222026" visible="true" version="1" changeset="40585209" timestamp="2016-07-08T18:42:33Z" user="hebolz" uid="2249513" lat="-4.5005520" lon="28.8938986"/>
+ <node id="4291222028" visible="true" version="1" changeset="40585209" timestamp="2016-07-08T18:42:33Z" user="hebolz" uid="2249513" lat="-4.5007066" lon="28.8935821"/>
+ <node id="4291222030" visible="true" version="1" changeset="40585209" timestamp="2016-07-08T18:42:33Z" user="hebolz" uid="2249513" lat="-4.5007539" lon="28.8909330"/>
+ <node id="4291222031" visible="true" version="1" changeset="40585209" timestamp="2016-07-08T18:42:33Z" user="hebolz" uid="2249513" lat="-4.5008107" lon="28.8932846"/>
+ <node id="4291222033" visible="true" version="1" changeset="40585209" timestamp="2016-07-08T18:42:33Z" user="hebolz" uid="2249513" lat="-4.5009211" lon="28.8930472"/>
+ <node id="4291222035" visible="true" version="1" changeset="40585209" timestamp="2016-07-08T18:42:33Z" user="hebolz" uid="2249513" lat="-4.5009653" lon="28.8909361"/>
+ <node id="4291222037" visible="true" version="1" changeset="40585209" timestamp="2016-07-08T18:42:33Z" user="hebolz" uid="2249513" lat="-4.5010631" lon="28.8929016"/>
+ <node id="4291222039" visible="true" version="1" changeset="40585209" timestamp="2016-07-08T18:42:33Z" user="hebolz" uid="2249513" lat="-4.5011452" lon="28.8925883"/>
+ <node id="4291222041" visible="true" version="1" changeset="40585209" timestamp="2016-07-08T18:42:33Z" user="hebolz" uid="2249513" lat="-4.5011893" lon="28.8924300"/>
+ <node id="4291222042" visible="true" version="1" changeset="40585209" timestamp="2016-07-08T18:42:33Z" user="hebolz" uid="2249513" lat="-4.5012209" lon="28.8910849"/>
+ <node id="4291222043" visible="true" version="1" changeset="40585209" timestamp="2016-07-08T18:42:33Z" user="hebolz" uid="2249513" lat="-4.5012209" lon="28.8922148"/>
+ <node id="4291222044" visible="true" version="1" changeset="40585209" timestamp="2016-07-08T18:42:33Z" user="hebolz" uid="2249513" lat="-4.5012588" lon="28.8919806"/>
+ <node id="4291222045" visible="true" version="1" changeset="40585209" timestamp="2016-07-08T18:42:33Z" user="hebolz" uid="2249513" lat="-4.5012903" lon="28.8917970"/>
+ <node id="4291222046" visible="true" version="1" changeset="40585209" timestamp="2016-07-08T18:42:33Z" user="hebolz" uid="2249513" lat="-4.5013629" lon="28.8916609"/>
+ <node id="4291222048" visible="true" version="1" changeset="40585209" timestamp="2016-07-08T18:42:33Z" user="hebolz" uid="2249513" lat="-4.5014449" lon="28.8913160"/>
+ <node id="4291222050" visible="true" version="1" changeset="40585209" timestamp="2016-07-08T18:42:33Z" user="hebolz" uid="2249513" lat="-4.5014733" lon="28.8914805"/>
+ <way id="429921838" visible="true" version="1" changeset="40585209" timestamp="2016-07-08T18:42:37Z" user="hebolz" uid="2249513">
+  <nd ref="4291222010"/>
+  <nd ref="4291222015"/>
+  <nd ref="4291222018"/>
+  <nd ref="4291222020"/>
+  <nd ref="4291222025"/>
+  <nd ref="4291222030"/>
+  <nd ref="4291222035"/>
+  <nd ref="4291222042"/>
+  <nd ref="4291222048"/>
+  <nd ref="4291222050"/>
+  <nd ref="4291222046"/>
+  <nd ref="4291222045"/>
+  <nd ref="4291222044"/>
+  <nd ref="4291222043"/>
+  <nd ref="4291222041"/>
+  <nd ref="4291222039"/>
+  <nd ref="4291222037"/>
+  <nd ref="4291222033"/>
+  <nd ref="4291222031"/>
+  <nd ref="4291222028"/>
+  <nd ref="4291222026"/>
+  <nd ref="4291222022"/>
+  <nd ref="4291222021"/>
+  <tag k="highway" v="path"/>
+ </way>
+</osm>
