@@ -63,8 +63,9 @@ import googlemaps
 from itertools import tee
 
 
-apiKey = 'AIzaSyC-TZ28cjlc9AI5eQpv1MWT7t0BWT0LjGU'
+apiKey = 'AIzGU'
 gmaps = googlemaps.Client(key=apiKey)
+
 
 
 ##
